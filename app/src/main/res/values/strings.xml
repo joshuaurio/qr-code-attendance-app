@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">mauthurio</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="Name">Name</string>
+    <string name="email">Email</string>
+    <string name="username">User name</string>
+    <string name="password">Password</string>
+    <string name="login_text">Already on user? Login</string>
+    <string name="signup_text">Not yet registered? Sign up</string>
+    <string name="welcome">Welcome to wer app</string>
+
+
+</resources>
